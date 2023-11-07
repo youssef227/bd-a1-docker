@@ -1,0 +1,6 @@
+Column: date, Unique Values: 348
+Column: item_name, Unique Values: 7
+Column: item_type, Unique Values: 2
+Column: transaction_type, Unique Values: 2
+Column: received_by, Unique Values: 2
+Column: time_of_sale, Unique Values: 5

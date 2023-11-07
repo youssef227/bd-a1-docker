@@ -1,0 +1,4 @@
+Cluster	Cluster Count
+0	571
+2	268
+1	161
